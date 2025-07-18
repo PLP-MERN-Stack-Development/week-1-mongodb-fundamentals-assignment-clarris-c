@@ -27,5 +27,6 @@ This project demonstrates how to use MongoDB for managing a bookstore database, 
 
    ```js
    mongo < insert_books.js
+![Capture](https://github.com/user-attachments/assets/196429d3-abf9-4eac-9505-07c8c2da3c2f)
 
 
